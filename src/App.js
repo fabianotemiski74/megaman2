@@ -5,9 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="http://vignette1.wikia.nocookie.net/megaman/images/9/95/Toadmugshot.png" className="App-logo" alt="logo" />
-        
-        
+        <img src="http://vignette4.wikia.nocookie.net/megaman/images/e/e3/Metalsprite.png" className="App-logo" alt="logo" />
       </header>
     </div>
   );
