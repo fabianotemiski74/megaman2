@@ -3,4 +3,11 @@
     color: blanchedalmond;
   border-color: cadetblue;
   border-style: solid;
+  width: 200px;
+  height: 200px;
+}
+
+.App{
+  display: flex;
+    flex-flow: wrap;
 }
